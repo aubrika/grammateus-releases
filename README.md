@@ -1,6 +1,14 @@
-<img src="icon.png" width="96" alt="">
+<p align="center"><img src="icon.png" width="96" alt="The Grammateus icon: a gold cross in a ring on purple"></p>
 
-# Grammateus
+<h1 align="center">Grammateus</h1>
+
+> ὁ δὲ εἶπεν αὐτοῖς· Διὰ τοῦτο πᾶς γραμματεὺς μαθητευθεὶς τῇ βασιλείᾳ τῶν οὐρανῶν ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδεσπότῃ ὅστις ἐκβάλλει ἐκ τοῦ θησαυροῦ αὐτοῦ καινὰ καὶ παλαιά.
+>
+> Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.
+>
+> — Matthew 13:52 (Greek: SBLGNT; English: KJV)
+
+*Grammateus* (γραμματεύς) is the Greek word for a scribe.
 
 A tool for producing weekly church bulletins.
 
