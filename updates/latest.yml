@@ -1,8 +1,8 @@
-version: 0.6.2
+version: 0.6.3
 files:
-  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.2/Grammateus-Setup-0.6.2.exe
-    sha512: BFWRCpUdagsrqn/GWpJQTNO5Uy0GcT5PobO9LWG9FtK331mud7EYC8nfdayTqje6Mfv3aC3qfMXubY3GaZ6aZg==
-    size: 107987724
-path: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.2/Grammateus-Setup-0.6.2.exe
-sha512: BFWRCpUdagsrqn/GWpJQTNO5Uy0GcT5PobO9LWG9FtK331mud7EYC8nfdayTqje6Mfv3aC3qfMXubY3GaZ6aZg==
-releaseDate: '2026-10-14T07:08:56.244Z'
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.3/Grammateus-Setup-0.6.3.exe
+    sha512: VLazY7dpA+QK3Pco+0tE9kkaT9gnD860ib1sI0s8k44ZWIwpaQdAI1q/bxyJqr4apzGAtmJl6jExuzilz7z/Gg==
+    size: 107986600
+path: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.3/Grammateus-Setup-0.6.3.exe
+sha512: VLazY7dpA+QK3Pco+0tE9kkaT9gnD860ib1sI0s8k44ZWIwpaQdAI1q/bxyJqr4apzGAtmJl6jExuzilz7z/Gg==
+releaseDate: '2026-10-14T07:15:37.492Z'
