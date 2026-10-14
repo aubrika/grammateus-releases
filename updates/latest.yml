@@ -1,0 +1,8 @@
+version: 0.6.1
+files:
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.1/Grammateus-Setup-0.6.1.exe
+    sha512: 3s0KPa7undPshhoO9vfaUU4zFv1CnNhMqpt6IkGeM3fEdfp+lKYwvxTJxmdJCsZgQFtPBteVh4msKWb4gpoYIQ==
+    size: 107987077
+path: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.1/Grammateus-Setup-0.6.1.exe
+sha512: 3s0KPa7undPshhoO9vfaUU4zFv1CnNhMqpt6IkGeM3fEdfp+lKYwvxTJxmdJCsZgQFtPBteVh4msKWb4gpoYIQ==
+releaseDate: '2026-10-14T06:25:54.034Z'

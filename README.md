@@ -29,8 +29,6 @@ Open the download page above. Under **Assets**, choose the one file for your com
 | Linux: Ubuntu, Debian, Linux Mint and others like them | the one ending in `.deb` |
 | Linux: any other kind | the one ending in `.AppImage` |
 
-Ignore the other files there (ending in `.yml` or `.blockmap`). The program uses them to check for newer versions.
-
 ## Installing it
 
 ### Windows
