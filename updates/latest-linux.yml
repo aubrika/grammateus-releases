@@ -1,12 +1,12 @@
-version: 0.6.1
+version: 0.6.2
 files:
-  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.1/Grammateus-0.6.1-linux-x86_64.AppImage
-    sha512: 3IJKX9xWBBnv9wWgjS4NFQEbgG7cNbXHd3bU92xdE6lRu+CTahQHRZHgvi+n4uE0J/YjnCDzAHiuQUhfRR8v/A==
-    size: 136056839
-    blockMapSize: 143387
-  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.1/Grammateus-0.6.1-linux-amd64.deb
-    sha512: CCAsHS8FLS7ejlDijGehNsO1vI8A7WvZPh7KLg3WYBlJd8FSBGxFTU3PtN3PeMpQVKjc13YCoer0A23Zcx+jvw==
-    size: 103950396
-path: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.1/Grammateus-0.6.1-linux-x86_64.AppImage
-sha512: 3IJKX9xWBBnv9wWgjS4NFQEbgG7cNbXHd3bU92xdE6lRu+CTahQHRZHgvi+n4uE0J/YjnCDzAHiuQUhfRR8v/A==
-releaseDate: '2026-10-14T06:24:00.994Z'
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.2/Grammateus-0.6.2-linux-x86_64.AppImage
+    sha512: iPKvTFpw0VFtsw04DR5qMwKs6fiRMgRYzcA8H96O1Ln9c2rJstKvbscy3le244s1tOHNC3PXx8AwM3rUaYdA1A==
+    size: 136056870
+    blockMapSize: 143418
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.2/Grammateus-0.6.2-linux-amd64.deb
+    sha512: 6eUe4jb5d9mcrlrKCPjqJ5dMjAMKk8HvLQpOjwkeGD6Jbaj+CPttbSnatXDnLufoa1S+ZgeiR03gMgHJV+9eJg==
+    size: 103951308
+path: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.2/Grammateus-0.6.2-linux-x86_64.AppImage
+sha512: iPKvTFpw0VFtsw04DR5qMwKs6fiRMgRYzcA8H96O1Ln9c2rJstKvbscy3le244s1tOHNC3PXx8AwM3rUaYdA1A==
+releaseDate: '2026-10-14T07:08:19.128Z'
