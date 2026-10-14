@@ -1,8 +1,8 @@
-version: 0.6.9
+version: 0.7.0
 files:
-  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.9/Grammateus-0.6.9-windows.exe
-    sha512: PE8v+SrfE6k50FIgdZ1H9hQzgLuWkGvrvy6i/pO/c/8dMevvKZbJdVTLbqymlxewuaaOlLZEI/qArkDoMHJebQ==
-    size: 90154784
-path: https://github.com/aubrika/grammateus-releases/releases/download/v0.6.9/Grammateus-0.6.9-windows.exe
-sha512: PE8v+SrfE6k50FIgdZ1H9hQzgLuWkGvrvy6i/pO/c/8dMevvKZbJdVTLbqymlxewuaaOlLZEI/qArkDoMHJebQ==
-releaseDate: '2026-10-14T20:07:54.441Z'
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.7.0/Grammateus-0.7.0-windows.exe
+    sha512: HpxxXfku60Lyj82AVuZ3btb2vrpQvc8LTcHKA2GaV8MhtOA8zEsIZmWeFky19pzXdPd0CDR0tqiay7uPIEsbKA==
+    size: 90155526
+path: https://github.com/aubrika/grammateus-releases/releases/download/v0.7.0/Grammateus-0.7.0-windows.exe
+sha512: HpxxXfku60Lyj82AVuZ3btb2vrpQvc8LTcHKA2GaV8MhtOA8zEsIZmWeFky19pzXdPd0CDR0tqiay7uPIEsbKA==
+releaseDate: '2026-10-14T20:13:43.602Z'
