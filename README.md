@@ -10,7 +10,7 @@
 
 *Grammateus* (γραμματεύς) is the Greek word for a scribe.
 
-A tool for producing weekly church bulletins.
+A tool for producing weekly church bulletins, for Windows, Mac and Linux.
 
 You fill in the parts of the service, add the hymns and readings, and it lays out the pages and makes a PDF ready to send to the printer.
 
@@ -18,13 +18,40 @@ You fill in the parts of the service, add the hymns and readings, and it lays ou
 
 ![The editing screen: the parts of the bulletin on the left, the selected part in the middle, the pages on the right](screenshot.png)
 
+## Which file to download
+
+Open the download page above. Under **Assets**, choose the one file for your computer:
+
+| Your computer | The file to download |
+|---|---|
+| Windows 10 or 11 | the one ending in `.exe` |
+| Mac (any Mac from the last ten years, with an Apple or Intel processor) | the one ending in `.dmg` |
+| Linux: Ubuntu, Debian, Linux Mint and others like them | the one ending in `.deb` |
+| Linux: any other kind | the one ending in `.AppImage` |
+
+Ignore the other files there (ending in `.yml` or `.blockmap`). The program uses them to check for newer versions.
+
 ## Installing it
 
-1. Open the download page above and choose the file ending in `.exe`.
-2. Run the file. Windows will say it does not recognise the program. This is expected: choose **More info**, then **Run anyway**.
-3. Open **Grammateus** from the Start menu.
+### Windows
 
-It needs Windows 10 or later. It installs only for you and does not need an administrator.
+1. Run the `.exe` file. Windows will say it does not recognise the program. This is expected: choose **More info**, then **Run anyway**.
+2. Open **Grammateus** from the Start menu.
+
+It installs only for you and does not need an administrator. When a newer version comes out, Grammateus downloads it by itself and installs it when you close the program.
+
+### Mac
+
+1. Open the `.dmg` file, and drag **Grammateus** into the **Applications** folder.
+2. Open Grammateus from Applications. The first time, the Mac will say it cannot check the program, because it does not come from the App Store or a registered Apple developer. Choose **Done**.
+3. Open **System Settings**, then **Privacy & Security**. Near the bottom is a line about Grammateus: choose **Open Anyway**, and confirm. (On older Macs: in Applications, hold **Control**, click Grammateus, and choose **Open**.)
+
+You only need to do this once. When a newer version comes out, Grammateus says so at the top of its window and offers to open this page; install the new version the same way.
+
+### Linux
+
+- **`.deb` file:** open it, and your software installer offers to install it. Or, in a terminal: `sudo apt install ./` followed by the file's name. Grammateus then appears with your other programs. When a newer version comes out, Grammateus says so and offers to open this page.
+- **`.AppImage` file:** it is the program itself. Allow it to run as a program (right-click it, choose **Properties**, and turn on **Allow executing file as program**), then open it. It downloads newer versions by itself.
 
 ## Trying it
 
