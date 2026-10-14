@@ -1,1 +1,1 @@
-The files in this folder tell an installed copy of Grammateus which version is the newest and where to download it. They are updated with each release; there is nothing here to download by hand.
+The files in this folder tell an installed copy of Grammateus which version is the newest and where to download it, and (the `.blockmap` files) which parts of each Windows installer changed, so an update downloads only those. They are updated with each release; there is nothing here to download by hand.
