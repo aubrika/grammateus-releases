@@ -1,12 +1,12 @@
-version: 0.7.1
+version: 0.8.0
 files:
-  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.7.1/Grammateus-0.7.1-linux.AppImage
-    sha512: 3AhDTY+VQZr2GDAVkRZRsCkwpIGonT8DIhpF7BRWG7zlJrhNvbff7JqvScb9HVu1wDYP6zj85G7tD56l+kg7Sg==
-    size: 110200516
-    blockMapSize: 116440
-  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.7.1/Grammateus-0.7.1-linux.deb
-    sha512: YAPxGKRFLqvYQKTEtVHUe/TUoe+BlncTekA9N2wmlbLxlOJ5+ybVW750aGy8aIGavR3yFLca6un9LZ2025+lxQ==
-    size: 85683300
-path: https://github.com/aubrika/grammateus-releases/releases/download/v0.7.1/Grammateus-0.7.1-linux.AppImage
-sha512: 3AhDTY+VQZr2GDAVkRZRsCkwpIGonT8DIhpF7BRWG7zlJrhNvbff7JqvScb9HVu1wDYP6zj85G7tD56l+kg7Sg==
-releaseDate: '2026-10-14T20:24:05.438Z'
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.8.0/Grammateus-0.8.0-linux.AppImage
+    sha512: 7tp0EQXRAzLawNeKmU4SdQR7BIyYAWKS8eo4iPIbd8aSTvJ/bcYiCYNO2uFlIKaw6iBj5GH1Lhd9h6U9k+Y1iA==
+    size: 110208813
+    blockMapSize: 116545
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.8.0/Grammateus-0.8.0-linux.deb
+    sha512: mcRV4SNdUbiiX7Rackbp7GxMqgGZmhEtSYnlX7eCnmycYip8hM9EOhxfWpg03f5fJ0cLZAHxXU8DVJdT6BnugA==
+    size: 85513276
+path: https://github.com/aubrika/grammateus-releases/releases/download/v0.8.0/Grammateus-0.8.0-linux.AppImage
+sha512: 7tp0EQXRAzLawNeKmU4SdQR7BIyYAWKS8eo4iPIbd8aSTvJ/bcYiCYNO2uFlIKaw6iBj5GH1Lhd9h6U9k+Y1iA==
+releaseDate: '2026-10-29T17:40:58.750Z'
