@@ -61,4 +61,8 @@ You only need to do this once. When a newer version comes out, Grammateus says s
 
 ## It is still being tested
 
-This is an early version. If something goes wrong or is confusing, please tell the person who sent you here, or [describe it on the Issues page](https://github.com/aubrika/grammateus-releases/issues). It helps to say what you clicked and what happened.
+This is an early version. It is used most on Windows; the Mac and Linux versions are built the same way but have been tried less. If something goes wrong or is confusing, please tell the person who sent you here, or [describe it on the Issues page](https://github.com/aubrika/grammateus-releases/issues). It helps to say what you clicked and what happened.
+
+## The source code
+
+Grammateus's source code is at [aubrika/grammateus](https://github.com/aubrika/grammateus). This repository holds only the downloads, and the files installed copies read to find a newer version.
