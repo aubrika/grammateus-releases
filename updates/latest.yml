@@ -1,8 +1,8 @@
-version: 0.8.1
+version: 0.8.2
 files:
-  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.8.1/Grammateus-0.8.1-windows.exe
-    sha512: q4KHkNRM5rWCBI+bxd6Kc/5Nc3kFOUHzWdJRw1yfKGFkkjXS/JKZwHXYvIR63xcjLpupmww/CXksWoX37ina2Q==
-    size: 91020359
-path: https://github.com/aubrika/grammateus-releases/releases/download/v0.8.1/Grammateus-0.8.1-windows.exe
-sha512: q4KHkNRM5rWCBI+bxd6Kc/5Nc3kFOUHzWdJRw1yfKGFkkjXS/JKZwHXYvIR63xcjLpupmww/CXksWoX37ina2Q==
-releaseDate: '2026-10-29T18:09:48.940Z'
+  - url: https://github.com/aubrika/grammateus-releases/releases/download/v0.8.2/Grammateus-0.8.2-windows.exe
+    sha512: FJs7iZM0lODjeJV4zO4Hijy1SqITYdliGUZ6fOn5YuBZc2+xpWS1jW63I8KAzpCPZfxF58DEAe7CPKWVg3/R2A==
+    size: 91021631
+path: https://github.com/aubrika/grammateus-releases/releases/download/v0.8.2/Grammateus-0.8.2-windows.exe
+sha512: FJs7iZM0lODjeJV4zO4Hijy1SqITYdliGUZ6fOn5YuBZc2+xpWS1jW63I8KAzpCPZfxF58DEAe7CPKWVg3/R2A==
+releaseDate: '2026-10-29T19:02:42.012Z'
